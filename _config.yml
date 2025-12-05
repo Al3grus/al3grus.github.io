@@ -34,9 +34,9 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  # name: Al3grus
+   name: Al3grus
   # email: al3grus@gmail.com # change to your email address
-  links:
+   links:
     # The first element serves as the copyright owner's link
     - https://x.com/al3grus # change to your Twitter homepage
     - https://github.com/Al3grus # change to your GitHub homepage
