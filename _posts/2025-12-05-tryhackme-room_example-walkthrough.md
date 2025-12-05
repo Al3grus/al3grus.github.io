@@ -3,9 +3,9 @@ title: "TryHackMe - Example Machine Walkthrough"
 date: 2025-12-05 14:30:00 +0100
 categories: [TryHackMe, Linux]
 tags: [ctf, web-exploitation, privilege-escalation, python]
-image:
-  path: /assets/img/Alegrus.jpeg
-  alt: Example Machine from TryHackMe
+#image:
+#  path: /assets/img/Alegrus.jpeg
+#  alt: Example Machine from TryHackMe
 ---
 
 ## Machine Information

@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Al3grus # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Cybersecurity Professional | Junior Penetration Tester | eJPT Certified # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Security write-ups, CTF walkthroughs, and penetration testing guides.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://al3grus.github.io/"
 
 github:
   username: Al3grus # change to your GitHub username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Al3grus
-  email: al3grus@gmail.com # change to your email address
+  # name: Al3grus
+  # email: al3grus@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/al3grus # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode:  [dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -176,6 +176,7 @@ defaults:
       path: "" # An empty string here means all files in the project
       type: posts
     values:
+      author: Al3grus
       layout: post
       comments: true # Enable comments in posts.
       toc: true # Display TOC column in posts.
