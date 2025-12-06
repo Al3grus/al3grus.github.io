@@ -2,8 +2,8 @@
 title: "$PLATFORM_ACRONYM: $ROOM_NAME"
 author: Al3grus
 date: YYYY-MM-DD HH:MM:SS +0100
-categories: [$PLATFORM, ]
-tags: [tag1, tag2, tag3, tag4, tag5]
+categories: [$PLATFORM]
+tags: []
 render_with_liquid: false
 media_subpath: /images/$FOLDER_NAME/
 image:
