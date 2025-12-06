@@ -1,21 +1,23 @@
 ---
-title: "THM: Advent Of Cyber - Day 1"
+title: "THM: Advent Of Cyber Prep Track"
 author: Al3grus
-date: 2025-12-06 18:22:30 +0100
+date: 2025-12-06 18:29:24 +0100
 categories: [TryHackMe]
-tags: []
+tags: [Aoc2025, Basics]
 render_with_liquid: false
-media_subpath: /images/THM_advent_of_cyber_day_1/
+media_subpath: /images/THM_advent_of_cyber_prep_track/
 image:
   path: room_image.webp
 ---
 
+**Link to the room:** [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack){: target="_blank" .center }
 
-**Advent Of Cyber - Day 1** - Description of the room
+
+**Advent Of Cyber Prep Track** - Description of the room
 
 <!-- Change $LINK_TO_THE_ROOM_PLACEHOLDER -->
 <!--------------------------------------------------------------------------------------------------------------------->
-[![Room Link](/images/room_card.webp){: width="300" height="300" .shadow}]($LINK_TO_THE_ROOM_PLACEHOLDER){: .center }
+![Advent of Cyber Prep Track](room_card.webp){: width="300" height="300" .shadow}{:.center }
 <!--------------------------------------------------------------------------------------------------------------------->
 
 

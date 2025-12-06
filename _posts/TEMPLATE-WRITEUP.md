@@ -10,14 +10,14 @@ image:
   path: room_image.webp
 ---
 
+<!-- Change $ROOM_URL -->
+<!------------------------------------------------------------------------>
+**Link to the room:** [$ROOM_NAME]($ROOM_URL){: target="_blank" .center }
+<!------------------------------------------------------------------------>
 
 **$ROOM_NAME** - Description of the room
 
-<!-- Change $LINK_TO_THE_ROOM_PLACEHOLDER -->
-<!--------------------------------------------------------------------------------------------------------------------->
-[![Room Link](/images/room_card.webp){: width="300" height="300" .shadow}]($LINK_TO_THE_ROOM_PLACEHOLDER){: .center }
-<!--------------------------------------------------------------------------------------------------------------------->
-
+![$ROOM_NAME](room_card.webp){: width="300" height="300" .shadow}{:.center }
 
 ## Initial Enumeration
 
