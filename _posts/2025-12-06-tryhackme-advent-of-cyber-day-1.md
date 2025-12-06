@@ -1,17 +1,17 @@
 ---
-title: "$PLATFORM_ACRONYM: $ROOM_NAME"
+title: "THM: Advent Of Cyber - Day 1"
 author: Al3grus
-date: YYYY-MM-DD HH:MM:SS +0100
-categories: [$PLATFORM, ]
+date: 2025-12-06 18:22:30 +0100
+categories: [TryHackMe]
 tags: []
 render_with_liquid: false
-media_subpath: /images/$FOLDER_NAME/
+media_subpath: /images/THM_advent_of_cyber_day_1/
 image:
   path: room_image.webp
 ---
 
 
-**$ROOM_NAME** - Description of the room
+**Advent Of Cyber - Day 1** - Description of the room
 
 <!-- Change $LINK_TO_THE_ROOM_PLACEHOLDER -->
 <!--------------------------------------------------------------------------------------------------------------------->
