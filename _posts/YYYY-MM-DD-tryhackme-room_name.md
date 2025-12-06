@@ -1,7 +1,7 @@
 ---
 title: "TryHackMe - ROOM_NAME"
 author: Al3grus
-date: 2025-12-05 14:30:00 +0100
+date: YYYY-MM-DD 14:30:00 +0100
 categories: [TryHackMe, Linux]
 tags: [ctf, web-exploitation, privilege-escalation, python]
 render_with_liquid: false
