@@ -3,7 +3,7 @@ title: "THM: Linux Cli - Shells Bells"
 author: Al3grus
 date: 2025-12-06 19:07:52 +0100
 categories: [TryHackMe]
-tags: []
+tags: [tag1, tag2]
 render_with_liquid: false
 media_subpath: /images/THM_linux_cli_shells_bells/
 image:
