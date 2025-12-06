@@ -1,16 +1,16 @@
 ---
-title: "$PLATFORM_ACRONYM: $ROOM_NAME"
+title: "THM: Relevant"
 author: Al3grus
-date: YYYY-MM-DD HH:MM:SS +0100
-categories: [$PLATFORM, ]
+date: 2025-12-06 19:51:28 +0100
+categories: [TryHackMe]
 tags: []
 render_with_liquid: false
-media_subpath: /images/$FOLDER_NAME/
+media_subpath: /images/THM_relevant/
 image:
-  path: room_card.webp
+  path: room_image.webp
 ---
 
-> **Link to the room:** [$ROOM_NAME]($ROOM_URL){: target="_blank"}
+> **Link to the room:** [Relevant]($https://tryhackme.com/room/relevant){: target="_blank" .center }
 
 <!--
 Add a Description of the room
@@ -41,7 +41,7 @@ There are two open ports:
 
 
 <!--
-![Name of image](name_of_image.webp){: width="2500" height="1250"}{:.center }
+![Name of image](name_of_image.webp){: width="2500" height="1250"}
 -->
 
 ---

@@ -1,0 +1,11 @@
+/* Fix post thumbnail cropping - show full image */
+.card-img-top {
+    object-fit: contain !important;
+    background: #1a1a1a;
+    padding: 20px;
+}
+
+.preview-img {
+    object-fit: contain !important;
+    background: #1a1a1a;
+}
