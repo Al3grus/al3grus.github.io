@@ -7,7 +7,7 @@ tags: []
 render_with_liquid: false
 media_subpath: /images/THM_relevant/
 image:
-  path: room_image.webp
+  path: room_card.webp
 ---
 
 > **Link to the room:** [Relevant]($https://tryhackme.com/room/relevant){: target="_blank" .center }
