@@ -11,10 +11,13 @@ image:
 ---
 
 
-
 **$ROOM_NAME** - Mini description of the room
 
-[![Tryhackme Room Link](room_card.webp){: width="300" height="300" .shadow}](https://tryhackme.com/room/roomname){: .center }
+<!-- Change $LINK_TO_THE_ROOM_PLACEHOLDER -->
+<!--------------------------------------------------------------------------------------------------------------------->
+[![Tryhackme Room Link](room_card.webp){: width="300" height="300" .shadow}]($LINK_TO_THE_ROOM_PLACEHOLDER){: .center }
+<!--------------------------------------------------------------------------------------------------------------------->
+
 
 ## Initial Enumeration
 
@@ -32,8 +35,8 @@ PORT   STATE SERVICE VERSION
 
 There are two open ports:
 
-* **22** (`SSH`)
-* **80** (`HTTP`)
+* **00** (`SSH`)
+* **11** (`HTTP`)
 
 ### Web 80
 
