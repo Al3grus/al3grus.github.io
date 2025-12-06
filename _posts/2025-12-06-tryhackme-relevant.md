@@ -10,8 +10,6 @@ image:
   path: room_card.webp
 ---
 
-> **Link to the room:** [Relevant]($https://tryhackme.com/room/relevant){: target="_blank" .center }
-
 <!--
 Add a Description of the room
 -->
