@@ -1,0 +1,11 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Apr 4, 2026 @ 22:41:09.548",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 22:41:09.547",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 22:40:19.539",argus-soc,sshd: connection reset,4,5762
+"Apr 4, 2026 @ 22:38:55.245",argus-edge-01,Cowrie: Attacker command executed on honeypot,6,100012
+"Apr 4, 2026 @ 22:38:51.210",argus-edge-01,Cowrie: Attacker command executed on honeypot,6,100012
+"Apr 4, 2026 @ 22:38:33.509",argus-soc,sshd: connection reset,4,5762
+"Apr 4, 2026 @ 22:38:15.233",argus-edge-01,Cowrie: Attacker command executed on honeypot,6,100012
+"Apr 4, 2026 @ 22:38:09.231",argus-edge-01,Cowrie: Lateral movement — honeypot login from server IP 192.168.1.10 (possible pivot from compromised host),12,100033
+"Apr 4, 2026 @ 22:38:03.226",argus-edge-01,Cowrie: New honeypot connection from 192.168.1.10,6,100010
+"Apr 4, 2026 @ 22:36:47.478",argus-soc,sshd: connection reset,4,5762

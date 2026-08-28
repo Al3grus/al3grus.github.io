@@ -1,0 +1,13 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Apr 4, 2026 @ 16:21:02.830",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:21:02.798",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:52.783",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:52.783",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:50.772",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:50.762",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:46.803",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:46.803",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:18.781",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:12.778",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:12.745",argus-edge-01,Suricata: Reverse shell callback detected —  connecting to attacker port,14,100021
+"Apr 4, 2026 @ 16:20:10.778",argus-edge-01,Suricata: Active exploitation — UnrealIRCd backdoor command detected from ,12,100030

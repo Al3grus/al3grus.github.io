@@ -1,0 +1,29 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Apr 4, 2026 @ 21:55:34.768",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.749",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.736",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.731",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.587",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.580",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.402",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.398",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.382",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.374",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.367",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.363",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.350",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.340",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.336",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:34.318",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:32.577",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:32.573",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:32.567",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:32.552",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:32.411",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:32.406",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:55:30.330",argus-edge-01,Suricata: SQL injection attempt detected from ,12,100032
+"Apr 4, 2026 @ 21:54:27.868",argus-soc,sshd: connection reset,4,5762
+"Apr 4, 2026 @ 21:52:41.822",argus-soc,sshd: connection reset,4,5762
+"Apr 4, 2026 @ 21:51:39.775",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 21:51:39.775",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 21:50:53.768",argus-soc,sshd: connection reset,4,5762

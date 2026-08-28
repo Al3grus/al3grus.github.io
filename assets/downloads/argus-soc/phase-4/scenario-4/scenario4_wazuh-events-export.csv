@@ -1,0 +1,13 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Apr 4, 2026 @ 17:51:03.120",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:51:03.120",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:50:45.117",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:50:45.117",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:50:19.113",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:50:19.112",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:49:19.099",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:49:19.099",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:48:05.079",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:48:05.078",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:48:03.077",argus-soc,sshd: Attempt to login using a non-existent user,5,5710
+"Apr 4, 2026 @ 17:48:03.077",argus-soc,sshd: Attempt to login using a non-existent user,5,5710

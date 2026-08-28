@@ -1,0 +1,11 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Apr 4, 2026 @ 13:39:31.549",argus-edge-01,PAM: Login session closed.,3,5502
+"Apr 4, 2026 @ 13:36:35.455",argus-edge-01,Cowrie: Successful honeypot login from 192.168.1.101,10,100011
+"Apr 4, 2026 @ 13:36:35.455",argus-edge-01,Cowrie: Successful honeypot login from 192.168.1.101,10,100011
+"Apr 4, 2026 @ 13:36:11.462",argus-edge-01,Cowrie: New honeypot connection from 192.168.1.101,6,100010
+"Apr 4, 2026 @ 13:36:11.461",argus-edge-01,Cowrie: New honeypot connection from 192.168.1.101,6,100010
+"Apr 4, 2026 @ 13:36:11.454",argus-edge-01,Cowrie: New honeypot connection from 192.168.1.101,6,100010
+"Apr 4, 2026 @ 13:36:11.454",argus-edge-01,Cowrie: New honeypot connection from 192.168.1.101,6,100010
+"Apr 4, 2026 @ 13:36:03.476",argus-edge-01,Cowrie: New honeypot connection from 192.168.1.101,6,100010
+"Apr 4, 2026 @ 13:35:23.456",argus-edge-01,PAM: Login session opened.,3,5501
+"Apr 4, 2026 @ 13:35:23.424",argus-edge-01,Successful sudo to ROOT executed.,3,5402
